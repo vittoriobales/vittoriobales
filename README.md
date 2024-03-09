@@ -1,4 +1,4 @@
-# [Your Name]'s Digital Alchemy Lab 🌟
+# Vittorio's Digital Alchemy Lab 🌟
 
 Greetings, fellow seekers of wisdom and digital craftsmanship! I’m [Your Name], the chief alchemist at this lab where the potent elements of sustainability, energy analysis, and quantitative finance are transmuted into golden insights through the mystical art of data science.
 
